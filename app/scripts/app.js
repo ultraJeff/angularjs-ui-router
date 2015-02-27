@@ -21,10 +21,8 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl',
         resolve: {
-          friends: ['$http', function($http) {
-            return $http.get('api/friends.json').then(function(res) {
-              return res.data;
-            });
+          friends: ['Friends', function(Friends) {
+            return Friends.get();
           }]
         }
       })
