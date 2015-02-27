@@ -10,7 +10,8 @@
  */
 angular
   .module('codeAcademyApp', [
-    'ui.router'
+    'ui.router',
+    'app.directives.contactCard'
   ])
   .config(['$urlRouterProvider', '$stateProvider', function ($urlRouterProvider, $stateProvider) {
     $urlRouterProvider.otherwise('/');
@@ -30,6 +31,11 @@ angular
         url: '/about',
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
+      })
+      .state('contact', {
+        url: '/contact',
+        templateUrl: 'views/contact.html',
+        controller: 'ContactCtrl'
       });
   }]);
 

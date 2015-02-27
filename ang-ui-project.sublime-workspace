@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Show",
+				"ShowSignupPopup"
+			],
+			[
+				"produc",
+				"productFxns"
+			],
+			[
+				"produtc",
+				"productFxns"
+			],
+			[
+				"change",
+				"changeimage"
+			],
+			[
+				"add",
+				"addThirdPartyScripts"
+			],
+			[
+				"showCar",
+				"showCartExpiration"
+			],
+			[
+				"init",
+				"initFancyboxes"
+			],
+			[
+				"quick",
+				"quickLookAddToCart"
+			],
+			[
+				"quic",
+				"quickLookAddToCart"
+			],
+			[
+				"Phone",
+				"PhoneListCtrl"
+			],
+			[
+				"auto",
+				"autoprefixer"
+			],
+			[
+				"List",
+				"ListsView"
+			],
+			[
+				"contex",
+				"contextualizer"
+			],
+			[
+				"Pos",
+				"PostView"
+			],
+			[
+				"prio",
+				"priorityDown"
+			],
+			[
+				"window",
+				"windowString"
+			],
+			[
+				"cuC",
+				"currentCookie"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/scripts/services/friends.js",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2856,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jeff/Desktop/ang-ui-router",
+		"/C/Users/Jeff/Desktop/ang-ui-router/app"
+	],
+	"file_history":
+	[
+		"/C/Users/Jeff/Desktop/yo-marionette/app/app.js",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/searchProduct.scss",
+		"/C/Source/ClientWebs/CKS_Mobile/Shipping.aspx",
+		"/C/Source/ClientWebs/CKS_Mobile/MasterPage.master",
+		"/C/Users/Jeff/Desktop/ang-ui-router/bower.json",
+		"/C/Users/Jeff/Desktop/webapp/app/index.html",
+		"/C/Users/Jeff/Desktop/yo-marionette/Gruntfile.js",
+		"/C/Users/Jeff/Desktop/yo-marionette/index.html",
+		"/C/Users/Jeff/Desktop/ang-ui-router/app/templates/nav.html",
+		"/C/Users/Jeff/Desktop/ang-ui-router/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/C/Users/Jeff/Desktop/ang-ui-router/bower_components/angular-route/angular-route.js",
+		"/C/Users/Jeff/Desktop/ang-ui-router/dist/index.html",
+		"/C/Source/ClientWebs/LLS_Consumer/TrendingNow.ascx",
+		"/C/Source/ClientWebs/CKS_Mobile/Default.aspx",
+		"/C/Source/ClientWebs/FGS_Consumer/Nav/Header.ascx",
+		"/C/Source/ClientWebs/FGS_Consumer/PartnerBenefits.aspx",
+		"/C/Users/Jeff/Desktop/ang-ui-router/Gruntfile.js",
+		"/C/Users/Jeff/Desktop/ang-ui-router/.jshintrc",
+		"/C/Users/Jeff/Desktop/webapp/bower_components/bootstrap-sass-official/sache.json",
+		"/C/Users/Jeff/Desktop/webapp/app/styles/main.scss",
+		"/C/Users/Jeff/Desktop/webapp/app/scripts/main.js",
+		"/C/Users/Jeff/Desktop/yeoman-todo/package.json",
+		"/C/Users/Jeff/Desktop/yeoman-todo/.tmp/styles/main.css",
+		"/C/Source/ClientWebs/CKS_Mobile/MasterPage.master.cs",
+		"/C/Users/Jeff/Desktop/yo-marionette/build/prod.js",
+		"/C/Users/Jeff/Desktop/yeoman-todo/Gruntfile.js",
+		"/C/Users/Jeff/Desktop/compass-test/index.html",
+		"/C/Users/Jeff/Desktop/compass-test/sass/screen.scss",
+		"/C/Source/ClientWebs/FGS_Consumer/product.aspx",
+		"/C/Source/ClientWebs/FGS_Consumer/Search.aspx",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/app/index.html",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/Gruntfile.js",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/app/scripts/main.js",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/dist/index.html",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/.yo-rc.json",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/app/scripts/collections/todos.js",
+		"/C/Users/Jeff/Desktop/yeoman-todo/bower.json",
+		"/C/Users/Jeff/Desktop/yeoman-backbone/bower.json",
+		"/C/Users/Jeff/Desktop/nodeJS/data_module/script.js",
+		"/C/Users/Jeff/Desktop/nodeJS/data_module/fibonacci.js",
+		"/C/Users/Jeff/Desktop/nodeJS/project/package.json",
+		"/C/Users/Jeff/Desktop/nodeJS/nodeTest.js",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/test-compass-project/sass/screen.scss",
+		"/C/Users/Jeff/Desktop/Portfolio/countries.php",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/test-compass-project/config.rb",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/test-compass-project/stylesheets/screen.css",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/test-compass-project/stylesheets/ie.css",
+		"/C/Source/ClientWebs/CKS_Consumer/jscripts/jquery.ui.touch-punch.min.js",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/searchProduct.css",
+		"/C/Source/ClientWebs/CKS_Consumer/App_Themes/Default/Default.less",
+		"/C/Users/Jeff/AppData/Local/Temp/AC_RunActiveContent.js_20150219144354.js",
+		"/C/Users/Jeff/Videos/FGS-prodFxns",
+		"/C/Users/Jeff/Videos/LLS-prodFxns",
+		"/C/Source/ClientWebs/LLS_Consumer/jscripts/Timers.js",
+		"/C/Source/ClientWebs/LLS_Consumer/jscripts/resize_fancybox.js",
+		"/C/Source/ClientWebs/LLS_Consumer/jscripts/Plugins.2.0.js",
+		"/C/Source/ClientWebs/CKS_Consumer/Gruntfile.js",
+		"/C/Users/Jeff/Desktop/yeoman-todo/README.md",
+		"/C/Users/Jeff/Desktop/angular-phonecat/app/phones/phones.json",
+		"/C/Users/Jeff/Desktop/angular-phonecat/app/js/controllers.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/test/e2e/scenarios.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/app/index.html",
+		"/C/Users/Jeff/Desktop/yeoman-todo/app/index.html",
+		"/C/Users/Jeff/Desktop/yeoman-todo/test/karma.conf.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/app/phones/lg-axis.json",
+		"/C/Source/ClientWebs/LPS_Consumer/Default.aspx",
+		"/C/Source/ClientWebs/LPS_Mobile/MasterPage.master",
+		"/C/Users/Jeff/Desktop/angular-phonecat/test/karma.conf.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/app/phones/dell-streak-7.json",
+		"/C/Users/Jeff/Desktop/angular-phonecat/app/js/app.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/test/protractor-conf.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/test/unit/directivesSpec.js",
+		"/C/Users/Jeff/Desktop/express-hello-world-app.js",
+		"/C/Users/Jeff/Desktop/angular-phonecat/package.json",
+		"/C/Users/Jeff/Desktop/angular-phonecat/.jshintrc",
+		"/C/Users/Jeff/Desktop/ember-starter-project.sublime-project",
+		"/C/Users/Jeff/Desktop/init.js/src/client/spa/Layout.js",
+		"/C/Users/Jeff/Desktop/init.js/public/js/spa/Layout.js",
+		"/C/Users/Jeff/Desktop/init.js/public/js/spa/Menu.js",
+		"/C/Users/Jeff/Desktop/init.js/public/js/spa/Login.js",
+		"/C/Users/Jeff/Desktop/init.js/public/js/spa/main.js",
+		"/C/Users/Jeff/Desktop/init.js/public/js/main.js",
+		"/C/Users/Jeff/Desktop/init.js/public/js/plugins.js",
+		"/C/Users/Jeff/Desktop/init.js/package.json",
+		"/C/Users/Jeff/Desktop/init.js/routes.js",
+		"/C/Users/Jeff/Desktop/init.js/config.json",
+		"/C/Users/Jeff/Desktop/init.js/server.js",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/src/client/spa/Login.js",
+		"/C/Users/Jeff/Desktop/node-js-getting-started/package.json",
+		"/C/Users/Jeff/Desktop/node-js-getting-started/index.js",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/index.js",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/routes.js",
+		"/C/Users/Jeff/Desktop/init.js/Gruntfile.js",
+		"/C/Users/Jeff/Desktop/express_app/package.json",
+		"/C/Users/Jeff/Portfolio_New/countries.php",
+		"/C/Users/Jeff/Desktop/node-js-getting-started/app.json",
+		"/C/Users/Jeff/Desktop/node-js-getting-started/README.md",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/README.md",
+		"/C/Users/Jeff/Desktop/express_app/node_modules/express/index.js",
+		"/C/Users/Jeff/Desktop/express_app/node_modules/express/lib/express.js",
+		"/C/Users/Jeff/ablative/ab-edit.php",
+		"/C/Users/Jeff/Desktop/init.js-local/package.json",
+		"/C/Users/Jeff/AppData/Local/Temp/sequencer.php_20150211141210.php",
+		"/C/Users/Jeff/Portfolio_New/composer.json",
+		"/C/Source/ClientWebs/CKS_Mobile/CartRetrieve.aspx.cs",
+		"/C/Users/Jeff/DisneyNote.txt",
+		"/C/Users/Jeff/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/PNA2KA5Y/details.txt",
+		"/C/Program Files (x86)/Git/doc/git/html/git-add.html",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/starter-kit-1.10.0/index.html",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/starter-kit-1.10.0/js/app.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/App.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/Header.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/Layout.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/templates/header.html",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/public/index.html",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/templates/view-home.html",
+		"/C/Users/Jeff/Desktop/samscom-code-exercise/001/project_folder/public/js/spa/Layout.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/LLSTrello.html",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/View-Home.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/View-Edit.js",
+		"/C/Users/Jeff/Desktop/starter-kit-1.10.0/starter-kit-1.10.0/tests/tests.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/templates/layout.html",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/main.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/templates/view-edit.html",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/templates/menu.html",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/src/client/spa/Menu.js",
+		"/C/Users/Jeff/Desktop/LLS-Event-Manager/server.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"routerpRovider",
+			"routepRovider",
+			"statepRovider",
+			"karma",
+			"auto",
+			"css",
+			"less",
+			"{\n",
+			"prodal",
+			"preloadimages",
+			"productfxns",
+			"inseams",
+			"JSON.parse",
+			"productfxn",
+			"product",
+			"email",
+			".forms[\"aspnetForm\"].",
+			"''",
+			"\"\"",
+			"undefined",
+			"null",
+			"serve",
+			"each",
+			"posts",
+			"galaxy",
+			"document.forms[\"aspnetForm\"]",
+			"!= undefined",
+			"!= null",
+			"!= 0",
+			"!= \"\"",
+			"parseint",
+			"\\}\\)\\n",
+			"== \"\"",
+			"-webkit",
+			"-moz",
+			"transition",
+			"-moz",
+			"-webkit",
+			"\"",
+			"google",
+			"10px",
+			".color",
+			"n: \" ",
+			"position",
+			"\"\\}",
+			"\\{e",
+			"{e",
+			"var ",
+			"\"\"",
+			":}",
+			"1",
+			"0",
+			">[a-A]*.*[<]",
+			"Root",
+			"print",
+			"enter",
+			"fashionsprite",
+			"sprite",
+			"2014",
+			".cmenu_left",
+			".cmenu_Left",
+			"receipt",
+			"billing",
+			"billing.a",
+			".sharebar",
+			"color",
+			"\"c\"",
+			"myaccountcredit",
+			"15p",
+			"isvalid",
+			"request",
+			"httpcontext",
+			"cmenu_lef",
+			"fbshare",
+			"\\\\r\\\\n",
+			"bf",
+			",",
+			"\\n",
+			"http://www.cookieskids.com/",
+			",",
+			"\\n",
+			" ",
+			"\\n",
+			"$",
+			"\\\"",
+			"maincontent",
+			"Learn About Active Advantage",
+			"page.t",
+			"renderlocation",
+			"();\n",
+			".SEvntImg",
+			"clearfix",
+			"#38",
+			"Cookie's Kids stocks all varieties of boys uniform gym wear and boys sweatshirts. Get him the gym attire he needs today!",
+			"&",
+			"#38",
+			"#038",
+			"26",
+			"k;",
+			"038k",
+			"&k",
+			"getnavigationtree",
+			"vertical",
+			"\\r\\n\\t\\t\\t",
+			"\"",
+			" ,",
+			"\\{.*\\}\\n",
+			"\"",
+			"\\t",
+			"invitations",
+			"url",
+			"ajaxer",
+			"'",
+			",",
+			"\\n",
+			"email",
+			"bxslider",
+			"crumb",
+			"one",
+			".contentWrap",
+			".main",
+			"main",
+			"/\\*.*?\\*/",
+			"/\\*.?",
+			"/\\*.*",
+			"colR",
+			"int",
+			"clearfix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$.parseJSON",
+			".forms.aspnetForm.",
+			"document.forms.aspnetForm",
+			"!== undefined",
+			"!== null",
+			"!== 0",
+			"!== \"\"",
+			"\\}\\);\\n",
+			"=== \"\"",
+			"'",
+			"n: \"",
+			"\\tposition",
+			"\"\\n\\t\\t\\}",
+			"{\\n\\t\\t\\te",
+			"{\\n\\t\\te",
+			"{\\ne",
+			"\\{\\re",
+			"{\\ne",
+			"window.",
+			"\"LLSC\"",
+			"\"LLSB\"",
+			":\"\"}",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"><",
+			"",
+			"\\n",
+			"tn",
+			"\",\"",
+			",",
+			"",
+			"\",\"",
+			",",
+			"",
+			",",
+			"",
+			"\"",
+			"amp",
+			"&#38;",
+			"%38",
+			"#38",
+			";k",
+			"038k;",
+			"&#038k",
+			"&amp;amp;k",
+			"&amp;k",
+			" ",
+			"",
+			",",
+			"'",
+			"\\'",
+			"\",\"",
+			",",
+			"",
+			"i",
+			"\\\"",
+			"\"",
+			"SHD",
+			", ",
+			",",
+			"\",\"",
+			";\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/scripts/services/friends.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/controllers/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ang-ui-project.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
