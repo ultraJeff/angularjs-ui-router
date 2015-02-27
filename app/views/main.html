@@ -1,0 +1,20 @@
+<div class="jumbotron">
+  <h1>{{title}}</h1>
+  <ul class="lead">
+    <li ng-repeat="item in items">{{item}}</li>
+  </ul>
+  <ul>
+    <li ng-repeat="friend in friends" ng-class="{'hidden': friend.age > 30}">
+      <input type="text" ng-model="friend.firstName"><input type="text" ng-model="friend.lastName"> is <input type="text" ng-model="friend.age"> years old.
+      <button class="btn btn-danger" ng-click="friends.splice($index, 1)"><span class="glyphicon glyphicon-remove"></span></button>
+    </li>
+  </ul>
+  <p><button class="btn btn-lg btn-success" ng-click="save()"><span class="glyphicon glyphicon-ok"></span>Save</button></p>
+</div>
+
+<div class="row marketing">
+  <input type="text" ng-model="title">
+  <input type="text" ng-model="myValue">
+  {{myValue}}
+  <select ng-model="selectedValue" ng-options="value for value in items"></select>
+</div>
